@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+I live in Belarus,Vitebsk .
+Work in a pharmacy.
